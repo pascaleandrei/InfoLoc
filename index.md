@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# InfoLoc Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/pascaleandrei/InfoLoc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy governs the manner in which "InfoLoc" collects, uses, maintains and discloses information collected from users of the InfoLoc application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## COLLECTED INFORMATION
 
-### Markdown
+"InfoLoc" collects information about the device the user or application uses (e.g., operating system, location, application version, etc.) is collected and used for statistical purposes. For collecting this information, Firebase Analytics, Firebase Performance and Firebase Crashlytics are used.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can view the Firebase privacy policy using the following link:
 
-```markdown
-Syntax highlighted code block
+https://firebase.google.com/support/privacy/
 
-# Header 1
-## Header 2
-### Header 3
+## WHAT IS THE PURPOSE FOR WHICH INFORMATION IS COLLECTED AND PROCESSED
 
-- Bulleted
-- List
+Personal data is used for the following purposes:
 
-1. Numbered
-2. List
+-for location, if the user has accepted permission for the location to be accessed, in order to see the location on the map. Also, a distance to the page of a location is displayed.
 
-**Bold** and _Italic_ and `Code` text
+-to improve the app
 
-[Link](url) and ![Image](src)
-```
+## HOW THE INFORMATION IS PROTECTED
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Data is stored using Firebase services, which encrypts data in transit using HTTPS and logically isolates client data.
 
-### Jekyll Themes
+## CONTACT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pascaleandrei/InfoLoc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For any questions, please contact me at:
 
-### Support or Contact
+pascaleandrei99@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+

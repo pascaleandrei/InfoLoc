@@ -8,7 +8,7 @@ This privacy policy governs the manner in which "InfoLoc" collects, uses, mainta
 
 You can view the Firebase privacy policy using the following link:
 
-https://firebase.google.com/support/privacy/
+[https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)
 
 ## WHAT IS THE PURPOSE FOR WHICH INFORMATION IS COLLECTED AND PROCESSED
 

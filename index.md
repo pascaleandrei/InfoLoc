@@ -4,7 +4,7 @@ This privacy policy governs the manner in which "InfoLoc" collects, uses, mainta
 
 ## COLLECTED INFORMATION
 
-"InfoLoc" collects information about the device the user or application uses (e.g., operating system, location, application version, etc.) is collected and used for statistical purposes. For collecting this information, Firebase Analytics, Firebase Performance and Firebase Crashlytics are used.
+"InfoLoc" collects information about the device the user or application uses (e.g., operating system, application version, location etc.) is collected and used for statistical purposes. For collecting this information, there are used Firebase Analytics, Firebase Performance and Firebase Crashlytics.
 
 You can view the Firebase privacy policy using the following link:
 
@@ -14,7 +14,7 @@ https://firebase.google.com/support/privacy/
 
 Personal data is used for the following purposes:
 
--for location, if the user has accepted permission for the location to be accessed, in order to see the location on the map. Also, a distance to the page of a location is displayed.
+-for location, if the user has accepted permission for the location to be accessed, in order to see the location on the map. Also, on the page of a location, the distance to it is showed.
 
 -to improve the app
 

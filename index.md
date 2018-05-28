@@ -26,6 +26,6 @@ Data is stored using Firebase services, which encrypts data in transit using HTT
 
 For any questions, please contact me at:
 
-pascaleandrei99@gmail.com
+andreipascale2000@gmail.com
 
 

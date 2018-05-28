@@ -18,6 +18,14 @@ Personal data is used for the following purposes:
 
 -to improve the app
 
+## THIRD PARTY SITES AND APPLICATIONS
+
+While using the application, you may be directed to other third-party applications or sites, in which case the terms of use and the personal data policy of those sites and applications apply.
+
+The app displays Google Maps. The Google Maps Privacy Policy can be consulted using the link below:
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
 ## HOW THE INFORMATION IS PROTECTED
 
 Data is stored using Firebase services, which encrypts data in transit using HTTPS and logically isolates client data.

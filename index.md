@@ -22,7 +22,7 @@ Personal data is used for the following purposes:
 
 While using the application, you may be directed to other third-party applications or sites, in which case the terms of use and the personal data policy of those sites and applications apply.
 
-The app displays Google Maps. The Google Maps Privacy Policy can be consulted using the link below:
+The app displays Google Maps maps. The Google Maps Privacy Policy can be consulted using the link below:
 
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
 

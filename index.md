@@ -9,22 +9,37 @@ Această politică de confidențialitate reglementează modul în care "InfoLoc"
 "InfoLoc" folosește Google Analytics for Firebase și identificatori de dispozitiv pentru a colecta date statistice despre utilizatori, dispozitivele folosite de acestia, respectiv despre aplicație. Aceste date sunt colectate doar cu acordul explicit al utilizatorului care poate renunța oricând la colectarea lor în setările aplicației. În plus, "InfoLoc" folosește Firebase Crashlytics pentru a trimite raporturi când aplicația se blochează. Astfel bug-urile sunt rezolvate mai ușor. Sunt colectate următoarele date:
 
 -categoria de vârstă
+
 -magazinul de aplicații din care a fost descărcată și instalată aplicația
+
 -versiunea aplicației
+
 -țara
+
 -numele mărcii dispozitivului
+
 -categoria dispozitivului
+
 -modelul dispozitivului
+
 -data la care a fost deschisă prima dată aplicația
+
 -genul
+
 -interese
+
 -limbă
+
 -nou/recunoscut(nou:prima deschidere a aplicației în ultimele 7 zile, recunoscut: prima deschidere a aplicației cu mai mult de 7 zile în urmă)
+
 -versiunea sistemului de operare
+
+Aceste date sunt colectate automat de Google Analytics for Firebase și sunt folosite la îmbunătățirea aplicației.
 
 Puteți consulta politica de confidențialitate Google Analytics, folosind următorul link:
 
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
 
 Când utilizatorul salvează o locație în Favorite, el poate să salveze și o fotografie. Aceasta poate fi o fotografie din telefon sau una realizată la fața locului. În ambele situații, aplicația solicită permisiunea să acceseze fișierele de pe dispozitiv. Fotografia este stocată pe dispozitiv și este vizibilă doar de către utilizator.
 
@@ -59,22 +74,37 @@ This privacy policy governs the manner in which "InfoLoc" collects, uses, mainta
 "InfoLoc" uses Google Analytics for Firebase and device identifiers to collect statistical data about users, the devices they use and the application. This data is collected only with the explicit consent of the user who may at any time opt-out of data collection in the application settings. In addition, "InfoLoc" uses Firebase Crashlytics to send reports when the application crashes. Thus bugs are easier to solve. The following data is collected:
 
 -age category
+
 -app store where the app has been downloaded and installed
+
 -version of the application
+
 -country
+
 -device brand
+
 -device category
+
 -model of the device
+
 -first time when the application was opened
+
 -gender
+
 -interests
+
 -language
+
 -new/established (new: the first opening of the application in the last 7 days, established: the first opening of the application more than 7 days ago)
+
 -version of the operating system
+
+This data is automatically collected by Google Analytics for Firebase and used to improve the application.
 
 You can view the Google Analytics privacy policy using the following link:
 
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
 
 When a user saves a location in Favorites, they can also save a photo. This can be a phone or an on-the-spot photo. In both cases, the application asks for permission to access the files on the device. The photo is stored on the device and is visible only to the user.
 

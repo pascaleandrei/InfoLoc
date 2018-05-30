@@ -1,6 +1,6 @@
-###### Swipe down for English version
+##### Please Scroll down for English version
 
-# Politica de confidențialitate a aplicației InfoLoc [RO]
+# [RO] Politica de confidențialitate a aplicației InfoLoc
 
 Această politică de confidențialitate reglementează modul în care "InfoLoc" colectează, folosește, menține și distribuie informațiile colectate de la utilizatorii aplicației InfoLoc.
 
@@ -50,7 +50,7 @@ andreipascale2000@gmail.com
 
 
 
-# Privacy Policy of InfoLoc application [EN]
+# [EN] Privacy Policy of InfoLoc application
 
 This privacy policy governs the manner in which "InfoLoc" collects, uses, maintains and shares the information collected from users of the InfoLoc application.
 

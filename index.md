@@ -6,7 +6,7 @@ Această politică de confidențialitate reglementează modul în care "InfoLoc"
 
 ## CE DATE SUNT COLECTATE ȘI DE CE
 
-"InfoLoc" folosește Google Analytics for Firebase și identificatori de dispozitiv pentru a colecta date statistice despre utilizatori, dispozitivele folosite de acestia, respectiv despre aplicație. Aceste date sunt colectate doar cu acordul explicit al utilizatorului care poate renunța oricând la colectarea lor în setările aplicației. Sunt colectate următoarele date:
+"InfoLoc" folosește Google Analytics for Firebase și identificatori de dispozitiv pentru a colecta date statistice despre utilizatori, dispozitivele folosite de acestia, respectiv despre aplicație. "InfoLoc" folosește Firebase Crashlytics pentru a trimite raporturi când aplicația se blochează. Astfel bug-urile sunt rezolvate mai ușor. Aceste date sunt colectate doar cu acordul explicit al utilizatorului care poate renunța oricând la colectarea lor în setările aplicației. Sunt colectate următoarele date:
 
 <ul><li>categoria de vârstă</li>
 
@@ -38,8 +38,6 @@ Aceste date sunt colectate automat de Google Analytics for Firebase și sunt fol
 Puteți consulta politica de confidențialitate Google Analytics, folosind următorul link:
 
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-"InfoLoc" folosește Firebase Crashlytics pentru a trimite raporturi când aplicația se blochează. Astfel bug-urile sunt rezolvate mai ușor.
 
 <br/>
 
@@ -77,7 +75,7 @@ This privacy policy governs the manner in which "InfoLoc" collects, uses, mainta
 
 ## WHAT INFORMATION IS COLLECTED AND WHY
 
-"InfoLoc" uses Google Analytics for Firebase and device identifiers to collect statistical data about users, the devices they use and the application. This data is collected only with the explicit consent of the user who may at any time opt-out of data collection in the application settings. The following data is collected:
+"InfoLoc" uses Google Analytics for Firebase and device identifiers to collect statistical data about users, the devices they use and the application. "InfoLoc" uses Firebase Crashlytics to send reports when the application crashes. Thus bugs are easier to solve. This data is collected only with the explicit consent of the user who may at any time opt-out of data collection in the application settings. The following data is collected:
 
 <ul><li>age category</li>
 
@@ -110,8 +108,6 @@ This data is automatically collected by Google Analytics for Firebase and used t
 You can view the Google Analytics privacy policy using the following link:
 
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-"InfoLoc" uses Firebase Crashlytics to send reports when the application crashes. Thus bugs are easier to solve.
 
 <br/>
 

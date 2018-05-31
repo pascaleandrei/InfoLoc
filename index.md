@@ -43,9 +43,13 @@ Puteți consulta politica de confidențialitate Google Analytics, folosind urmă
 
 <br/>
 
-Când utilizatorul salvează o locație în Favorite, el poate să salveze și o fotografie. Aceasta poate fi o fotografie din telefon sau una realizată la fața locului. În ambele situații, aplicația solicită permisiunea să acceseze fișierele de pe dispozitiv. Fotografia este stocată pe dispozitiv și este vizibilă doar de către utilizator.
+### Permisiuni
 
-În cazul în care utilizatorul a acceptat permisiunea ca locația să poată fi accesată, acesta va putea vedea pe hartă locația pe hartă. De asemenea, pe pagina unei locații este afișată distanța până la aceasta.
+<ul><li><b>Internet</b></li>
+
+<li><b>Fișiere:</b> Când utilizatorul salvează o locație în Favorite, el poate să salveze și o fotografie. Aceasta poate fi o fotografie din telefon sau una realizată la fața locului. În ambele situații, aplicația solicită permisiunea să acceseze fișierele de pe dispozitiv. Fotografia este stocată pe dispozitiv și este vizibilă doar de către utilizator.</li>
+
+<li><b>Locație:</b> În cazul în care utilizatorul a acceptat permisiunea ca locația să poată fi accesată, acesta va putea vedea pe hartă locația pe hartă. De asemenea, pe pagina unei locații este afișată distanța până la aceasta.</li></ul>
 
 ## CUM SUNT PROTEJATE DATELE
 
@@ -111,9 +115,13 @@ You can view the Google Analytics privacy policy using the following link:
 
 <br/>
 
-When a user saves a location in Favorites, they can also save a photo. This can be a phone or an on-the-spot photo. In both cases, the application asks for permission to access the files on the device. The photo is stored on the device and is visible only to the user.
+### Permissions
 
-If the user has accepted permission for the location to be accessed, the user will be able to see the location on the map on the map. Also, a distance to the page of a location is displayed.
+<ul><li><b>Internet</b></li>
+
+<li><b>Files:</b> When a user saves a location in Favorites, they can also save a photo. This can be a phone or an on-the-spot photo. In both cases, the application asks for permission to access the files on the device. The photo is stored on the device and is visible only to the user.</li>
+
+<li><b>Location:</b> If the user has accepted permission for the location to be accessed, the user will be able to see the location on the map on the map. Also, a distance to the page of a location is displayed.</li></ul>
 
 
 ## THIRD PARTY SITES AND APPLICATIONS

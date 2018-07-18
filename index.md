@@ -48,7 +48,7 @@ This privacy policy governs the manner in which "InfoLoc" collects and uses the 
 
 <li><b>Files:</b> When a user saves a location in Favorites, they can also save a photo. This can be a phone or an on-the-spot photo. In both cases, the application asks for permission to access the files on the device. The photo is stored on the device and is visible only to the user.</li>
 
-<li><b>Location:</b> If the user has accepted permission for the location to be accessed, the user will be able to see information about the current location. Also, a distance to the page of a location is displayed.</li></ul>
+<li><b>Location:</b> If the user has accepted permission for the location to be accessed, the user will be able to see information about the current location. Also, on the location page it is displayed the distance to the location.</li></ul>
 
 ## STATISTICAL DATA
 

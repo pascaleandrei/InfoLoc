@@ -36,6 +36,8 @@ Pentru orice nelămurire, puteți contacta "InfoLoc" la adresa de email:
 
 andreipascale2000@gmail.com
 
+##### Ultima modificare: 26 februarie 2020
+
 <br/>
 
 # [EN] Privacy Policy of InfoLoc application
@@ -73,3 +75,5 @@ Also, in order to display the distance to a specific location, the application s
 For any questions, you can contact "InfoLoc" at:
 
 andreipascale2000@gmail.com
+
+##### Last change: 26 february 2020
